@@ -1,0 +1,14 @@
+This is a basic console-based Password Manager written in Python. It allows users to store, view, search, and update their passwords securely in a .csv file. The application uses Python's built-in modules and is designed to be beginner-friendly and modular.
+
+📋 Features
+📁 Custom or Default File: Choose to specify a file or use the default password.csv.
+
+✅ Store Passwords: Add multiple records with username, site, and password.
+
+🔎 View Passwords: Display all stored passwords in a readable format.
+
+🕵️‍♂️ Search Passwords: Search by username, site, or password.
+
+✏️ Update Passwords: Locate and update a password based on matching username or site.
+
+⚠️ Data Validation: Prevents empty fields, malformed inputs, or empty files.
